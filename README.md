@@ -27,14 +27,14 @@ I believe the intersection of **AI, graph theory, and supply chain science** hol
 
 ### 🔬 What I'm Building
 
-```
+\`\`\`
 Quantisage SAGE Platform
 ├── 🌐 Graph Neural Networks for multi-tier supply chain mapping
 ├── 📡 Real-time IoT data ingestion (replacing 12-month survey lags)
 ├── 🤖 LLM-powered emissions factor matching & classification
 ├── 📊 R-Value optimization for carbon reduction prioritization
 └── 🔗 Enterprise integration (ERP, SCM, procurement systems)
-```
+\`\`\`
 
 ---
 
@@ -58,8 +58,8 @@ Quantisage SAGE Platform
 ![NetworkX](https://img.shields.io/badge/NetworkX-4C8CBF?style=flat-square)
 ![PyG](https://img.shields.io/badge/PyG-3C2179?style=flat-square&logo=pyg&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?satyle=flat-square&logo=pandas&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169avE1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Cloud & Infrastructure**
 
