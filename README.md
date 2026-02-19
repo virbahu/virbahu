@@ -3,8 +3,10 @@
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/virbahujain/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://quantisage.com"><img src="https://img.shields.io/badge/Quantisage-1D0C86?style=for-the-badge&logoColor=white" alt="Quantisage"/></a>
+  <a href="https://www.linkedin.com/in/virbahu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://quantisage.com/"><img src="https://img.shields.io/badge/Quantisage_Consulting-1D0C86?style=for-the-badge&logoColor=white" alt="Quantisage Consulting"/></a>
+  <a href="https://quantisage.ai/"><img src="https://img.shields.io/badge/Quantisage_AI_(Scope--3)-A100FF?style=for-the-badge&logoColor=white" alt="Quantisage AI"/></a>
+  <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Scholar"/></a>
 </p>
 
 <p align="center">
@@ -15,7 +17,7 @@
 
 ### 🧠 About Me
 
-I'm the **Founder & CEO of [Quantisage](https://quantisage.com)** — building the AI Operating System for Scope 3 emissions management and supply chain decarbonization.
+I'm the **Founder & CEO of [Quantisage](https://quantisage.ai/)** — building the AI Operating System for Scope 3 emissions management and supply chain decarbonization.
 
 With **20+ years** of enterprise supply chain experience across **manufacturing, life sciences, energy, and public sector** on **five continents**, I bridge the gap between factory-floor operations and boardroom strategy. I hold an **MBA from Kellogg School of Management** (Northwestern University), have **published peer-reviewed research** on AI applications in sustainable supply chains, and hold **patents for IoT and AI solutions** in manufacturing and logistics.
 
@@ -106,6 +108,10 @@ Quantisage SAGE Platform
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=virbahu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A100FF&icon_color=A100FF&text_color=FFFFFF" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=virbahu&theme=tokyonight&hide_border=true&background=0D1117&ring=A100FF&fire=A100FF&currStreakLabel=A100FF" alt="GitHub Streak" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virbahu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A100FF&text_color=FFFFFF" alt="Top Languages" height="170"/>
 </p>
 
 ---
