@@ -1,127 +1,108 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Virbahu+Jain;Founder+%26+CEO+%40+Quantisage;AI+%7C+Supply+Chain+%7C+Climate+Tech;20%2B+Years+Enterprise+Operations&center=true&size=28&duration=4000&pause=1000&color=A100FF&width=700" alt="Typing SVG" />
-</h1>
+</h1>h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/virbahu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://quantisage.com/"><img src="https://img.shields.io/badge/Quantisage_Consulting-1D0C86?style=for-the-badge&logoColor=white" alt="Quantisage Consulting"/></a>
-  <a href="https://quantisage.ai/"><img src="https://img.shields.io/badge/Quantisage_AI_(Scope--3)-A100FF?style=for-the-badge&logoColor=white" alt="Quantisage AI"/></a>
-  <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Scholar"/></a>
-</p>
+  <a href="https://www.linkedin.com/in/virbahu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>a>
+    <a href="https://quantisage.com/"><img src="https://img.shields.io/badge/Quantisage_Consulting-1D0C86?style=for-the-badge&logoColor=white" alt="Quantisage Consulting"/></a>a>
+      <a href="https://quantisage.ai/"><img src="https://img.shields.io/badge/Quantisage_AI_(Scope--3)-A100FF?style=for-the-badge&logoColor=white" alt="Quantisage AI"/></a>a>
+        <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Scholar"/></a>a>
+</p>p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=virbahu&label=Profile%20Views&color=A100FF&style=flat" alt="Profile views" />
-</p>
+</p>p>
 
 ---
 
-### 🧠 About Me
+## 🏢 About Quantisage
 
-I'm the **Founder & CEO of [Quantisage](https://quantisage.ai/)** — building the AI Operating System for Scope 3 emissions management and supply chain decarbonization.
-
-With **20+ years** of enterprise supply chain experience across **manufacturing, life sciences, energy, and public sector** on **five continents**, I bridge the gap between factory-floor operations and boardroom strategy. I hold an **MBA from Kellogg School of Management** (Northwestern University), have **published peer-reviewed research** on AI applications in sustainable supply chains, and hold **patents for IoT and AI solutions** in manufacturing and logistics.
-
-I believe the intersection of **AI, graph theory, and supply chain science** holds the key to solving the hardest decarbonization problem on the planet — the invisible 90% of emissions hiding in global supply chains.
-
----
-
-### 🔬 What I'm Building
-
-\`\`\`
-Quantisage SAGE Platform
-├── 🌐 Graph Neural Networks for multi-tier supply chain mapping
-├── 📡 Real-time IoT data ingestion (replacing 12-month survey lags)
-├── 🤖 LLM-powered emissions factor matching & classification
-├── 📊 R-Value optimization for carbon reduction prioritization
-└── 🔗 Enterprise integration (ERP, SCM, procurement systems)
-\`\`\`
-
----
-
-### 🛠️ Tech Stack & Expertise
-
-<p align="center">
-
-**AI / ML**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF5A1F?style=flat-square)
-
-**Graph & Data**
-
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
-![NetworkX](https://img.shields.io/badge/NetworkX-4C8CBF?style=flat-square)
-![PyG](https://img.shields.io/badge/PyG-3C2179?style=flat-square&logo=pyg&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?satyle=flat-square&logo=pandas&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169avE1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Cloud & Infrastructure**
-
-![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-**Supply Chain & Domain**
-
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-![Oracle SCM](https://img.shields.io/badge/Oracle_SCM-F80000?style=flat-square&logo=oracle&logoColor=white)
-![GHG Protocol](https://img.shields.io/badge/GHG_Protocol-2E7D32?style=flat-square)
-![ISO 14064](https://img.shields.io/badge/ISO_14064-006B3F?style=flat-square)
-
-</p>
-
----
-
-### 📂 Featured Repositories
-
-| Repository | Description | Stack |
-|:---|:---|:---|
-| 🧬 [scope3-gnn-mapper](https://github.com/virbahu/scope3-gnn-mapper) | Graph Neural Network for multi-tier supply chain emissions mapping | `PyTorch Geometric` `Neo4j` `Python` |
-| 🤖 [supply-chain-ai-agents](https://github.com/virbahu/supply-chain-ai-agents) | Multi-agent systems for autonomous procurement & emissions optimization | `CrewAI` `LangChain` `OpenAI` |
-| 📊 [emissions-factor-llm](https://github.com/virbahu/emissions-factor-llm) | LLM pipeline for automated emissions factor classification (GHG Protocol) | `Transformers` `FastAPI` `RAG` |
-| 🔍 [carbon-data-pipeline](https://github.com/virbahu/carbon-data-pipeline) | Real-time IoT data ingestion pipeline for Scope 3 carbon accounting | `Apache Kafka` `Spark` `PostgreSQL` |
-| 📈 [r-value-optimizer](https://github.com/virbahu/r-value-optimizer) | Optimization engine for carbon reduction prioritization across suppliers | `SciPy` `NetworkX` `Streamlit` |
-| 🏗️ [supply-chain-knowledge-graph](https://github.com/virbahu/supply-chain-knowledge-graph) | Knowledge graph construction for enterprise supply chain intelligence | `Neo4j` `spaCy` `FastAPI` |
-| 🌍 [ghg-protocol-toolkit](https://github.com/virbahu/ghg-protocol-toolkit) | Open-source toolkit for GHG Protocol Scope 1/2/3 calculations | `Python` `Pandas` `Plotly` |
-| 📝 [ai-supply-chain-research](https://github.com/virbahu/ai-supply-chain-research) | Research notebooks — papers, experiments, and technical deep dives | `Jupyter` `LaTeX` |
-
----
-
-### 📚 Research & Publications
-
-- **"The Invisible Ninety Percent: How AI Is Rewriting the Carbon Ledger of Global Supply Chains"** — Book chapter on AI-driven Scope 3 transformation
-- **Peer-reviewed research** on machine learning applications in sustainable supply chain management
-- **Patents** — IoT solutions for supply chain visibility; AI systems for manufacturing optimization
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=virbahu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A100FF&icon_color=A100FF&text_color=FFFFFF" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=virbahu&theme=tokyonight&hide_border=true&background=0D1117&ring=A100FF&fire=A100FF&currStreakLabel=A100FF" alt="GitHub Streak" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virbahu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A100FF&text_color=FFFFFF" alt="Top Languages" height="170"/>
-</p>
-
----
-
-### 💡 Philosophy
-
-> *"You can't decarbonize what you can't see. AI doesn't just measure the invisible — it makes the invisible actionable."*
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,30&height=100&section=footer" />
-</p>
+> **"Where Growth Meets Compliance"**
+>
+> **Quantisage** is building an AI-powered platform to provide customers with the world's leading technology and sustainable compliance Supply Chain solutions — while promoting the well-being and development of our associates and partners.
+>
+> Quantisage is focused on delivering **enterprise-grade technology and compliance solutions** to regulated and performance-driven Sustainable Supply Chain industries who care about **ESG and Clean Tech**.
+>
+> ### Why Choose Quantisage?
+>
+> Quantisage is built on experience — our consultants average over **20 years of hands-on expertise** across mission-critical functions. We act as a true extension of your team, committed to helping you extract the maximum value from your software investments.
+>
+> With deep-domain knowledge in **Healthcare, Life Sciences, Financial Services, Manufacturing, Energy, Private Equity, Robotics, Semiconductor, Chemicals, Food & Beverages, and the Public Sector**, we bring insight, agility, and execution discipline to every engagement.
+>
+> - ✅ AI-powered Supply Chain Solutions — guaranteed **15–30% operational efficiency gains** in 12–16 weeks
+> - - ✅ AI-powered Compliance Solutions for Manufacturing & Supply Chain industries
+>   - - ✅ **Award-winning** consulting company leveraging proven methodologies and best-in-class delivery practices
+>     - - ✅ Even our competitors and Big 4's use our expertise for their projects
+>       - - ✅ Serving commercial, schools, and government markets throughout the United States
+>        
+>         - **Empower your teams. Maximize ROI.**
+>        
+>         - 📧 Reach out: [info@quantisage.com](mailto:info@quantisage.com)
+>        
+>         - ---
+>
+> ### 🧑‍💼 About Me
+>
+> I'm **Vir, Founder & CEO of Quantisage** — a dynamic Business Transformation Leader with over **20 years of global experience** in Supply Chain Management, Growth, and Technology Strategy.
+>
+> With 20+ years at the forefront of digital innovation, I architect supply chain revolutions, compliance breakthroughs, and ERP evolutions for global titans ($300M–$100B+). At Quantisage, I pioneer AI solutions that turn operational chaos into competitive advantage — delivering **40–60% efficiency gains** and **85%+ decision accuracy** for clients worldwide.
+>
+> I have led large-scale digital transformations and automation initiatives for organizations with revenues ranging from **$300 million to over $100 billion** across the U.S. and international markets.
+>
+> **Industries Served** *(not limited to)*: Manufacturing, Logistics, Private Equity, Financial Services, Media, Telecom, Healthcare, Life Sciences, and Public Sector.
+>
+> Led impactful, revenue-generating leadership roles at global organizations: **Accenture, GE, IBM, and Hitachi**. I excel in building strategic roadmaps, scaling operations, and driving results in complex, fast-paced environments. My expertise spans **AI-powered applications, IoT, blockchain, and Cloud platforms**, making me a trusted advisor in technology-led innovation.
+>
+> As an entrepreneur and investor, I am passionate about pioneering disruptive solutions. I blend strong analytical thinking with hands-on leadership to align diverse teams and deliver measurable outcomes. Whether driving supply chain optimization or leading AI infrastructure development, I thrive at the intersection of business, data, and technology.
+>
+> I have shaped multiple innovative ideas into commercial digital products and launched/scaled multiple customer-centric businesses. Passionate about leveraging a **digital-first mindset** to transform business models and deliver exceptional value to end customers.
+>
+> 📧 Connect with me: [vir@quantisage.com](mailto:vir@quantisage.com)
+>
+> ---
+>
+> ### 🏭 Experience & Background
+>
+> | | |
+> |---|---|
+> | 🎓 **Education** | MBA, Kellogg School of Management, Northwestern University |
+> | 🏢 **Previous Roles** | ex-Accenture, GE, IBM, Oracle, Hitachi Consulting |
+> | 🏭 **Experience** | 25+ years IT experience in key management, technology and consulting positions |
+> | 🌍 **Scope** | Supply chain operations across U.S. and international markets |
+> | 🔬 **Focus** | SaaS, IT Strategy, Compliance, and Digital Transformation projects |
+> | 🤝 **Role** | Strategic advisor — technology assessments, digital roadmaps, software selection, business process & system design |
+>
+> ---
+>
+> ### 🚀 What I'm Building
+>
+> ```
+> Quantisage SAGE Platform
+> ├── 🌐 Graph Neural Networks for multi-tier supply chain mapping
+> ├── 🤖 LLM-powered emissions factor matching & classification
+> ├── 📡 Real-time IoT data ingestion (replacing 12-month survey lags)
+> ├── 📊 R-Value optimization for carbon reduction prioritization
+> └── 🔗 Enterprise integration (ERP, SCM, procurement systems)
+> ```
+>
+> ---
+>
+> ### 🛠️ Tech Stack & Expertise
+>
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+> ![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+> ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logoColor=white)
+> ![CrewAI](https://img.shields.io/badge/CrewAI-red?style=flat&logoColor=white)
+> ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
+> ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+> ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+> ![IoT](https://img.shields.io/badge/IoT-00B4D8?style=flat&logoColor=white)
+> ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat&logo=ethereum&logoColor=white)
+>
+> ---
+>
+> <p align="center">
+  <a href="https://quantisage.com"><img src="https://img.shields.io/badge/Quantisage-Open%20Source%20Initiative-00C853?style=for-the-badge" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/AI-Supply%20Chain-blue?style=for-the-badge" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Climate-Tech-green?style=for-the-badge" /></a>
+      </p>
