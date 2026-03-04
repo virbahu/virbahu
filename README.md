@@ -42,6 +42,8 @@ With deep-domain knowledge in **Healthcare, Life Sciences, Financial Services, M
 
 ### 🧑‍💼 About Me
 
+> *Virbahu Jain also goes by Vir (V-e-e-r)*
+
 I'm **Vir, Founder & CEO of Quantisage** — a dynamic Business Transformation Leader with over **20 years of global experience** in Supply Chain Management, Growth, and Technology Strategy.
 
 With 20+ years at the forefront of digital innovation, I architect supply chain revolutions, compliance breakthroughs, and ERP evolutions for global titans ($300M–$100B+). At Quantisage, I pioneer AI solutions that turn operational chaos into competitive advantage — delivering **40–60% efficiency gains** and **85%+ decision accuracy** for clients worldwide.
