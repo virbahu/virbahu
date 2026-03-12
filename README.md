@@ -1,109 +1,122 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Virbahu+Jain;Founder+%26+CEO+%40+Quantisage;AI+%7C+Supply+Chain+%7C+Climate+Tech;20%2B+Years+Enterprise+Operations&center=true&size=28&duration=4000&pause=1000&color=A100FF&width=700" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Virbahu+Jain;Founder+%26+CEO+—+Quantisage;20%2B+Years+Enterprise+Supply+Chain;AI+%7C+Climate+Tech+%7C+Oracle+Cloud&center=true&size=26&duration=3500&pause=1200&color=A100FF&width=650&height=45" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/virbahu/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://quantisage.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Quantisage_Consulting-1D0C86?style=for-the-badge&logoColor=white" alt="Quantisage Consulting"/></a>
-  <a href="https://quantisage.ai/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Quantisage_AI_(Scope--3)-A100FF?style=for-the-badge&logoColor=white" alt="Quantisage AI"/></a>
-  <a href="https://scholar.google.com/citations?user=4SN8o-QAAAAJ&hl=en" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
+  <a href="https://www.linkedin.com/in/virbahujain/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://quantisage.com"><img src="https://img.shields.io/badge/Quantisage-1D0C86?style=for-the-badge&logoColor=white"/></a>&nbsp;
+  <a href="https://jaincapitals.com"><img src="https://img.shields.io/badge/Jain+Capitals-2E2E2E?style=for-the-badge&logoColor=white"/></a>
 </p>
+
+<p align="center"><sub>
+  Founder & CEO · Investor · Kellogg MBA · Patent Holder · Published Researcher
+</sub></p>
+
+---
+
+### About
+
+I build at the intersection of **AI, enterprise supply chains, and climate tech**.
+
+**[Quantisage](https://quantisage.com)** — AI + Oracle Cloud consulting firm focused on Scope 3 emissions management, supply chain decarbonization, and enterprise ERP modernization. We serve manufacturing, life sciences, energy, and public sector clients across five continents.
+
+**[Jain Capitals](https://jaincapitals.com)** — Search fund and independent sponsor firm focused on acquiring and operating small businesses.
+
+Previously Managing Director at Accenture, leading large-scale supply chain transformation programs.
+
+---
+
+### Open Source — AI for Supply Chain Decarbonization
+
+I open-source tools and research that make supply chain emissions **measurable, traceable, and reducible**. These projects represent methods and frameworks from 20+ years of enterprise supply chain work, combined with modern AI/ML approaches.
+
+#### 🧬 AI & Machine Learning
+
+| Repository | What It Does |
+|:--|:--|
+| [scope3-gnn-mapper](https://github.com/virbahu/scope3-gnn-mapper) | Graph Neural Networks for multi-tier emission propagation |
+| [emissions-factor-llm](https://github.com/virbahu/emissions-factor-llm) | LLM/RAG pipeline for emission factor classification |
+| [supply-chain-ai-agents](https://github.com/virbahu/supply-chain-ai-agents) | Multi-agent systems for procurement & emissions optimization |
+| [demand-forecasting-transformer](https://github.com/virbahu/demand-forecasting-transformer) | Transformer-based demand forecasting |
+| [procurement-nlp-classifier](https://github.com/virbahu/procurement-nlp-classifier) | NLP for procurement document classification (UNSPSC) |
+| [supply-chain-llm-benchmark](https://github.com/virbahu/supply-chain-llm-benchmark) | Benchmark suite for supply chain domain LLMs |
+
+#### 🌍 Carbon Accounting & Compliance
+
+| Repository | What It Does |
+|:--|:--|
+| [ghg-protocol-toolkit](https://github.com/virbahu/ghg-protocol-toolkit) | Open-source GHG Protocol Scope 1/2/3 calculator |
+| [cbam-compliance-engine](https://github.com/virbahu/cbam-compliance-engine) | EU CBAM embedded emissions calculator |
+| [scope3-data-validator](https://github.com/virbahu/scope3-data-validator) | Pydantic validation rules for GHG Protocol data quality |
+| [scope3-emission-factors-db](https://github.com/virbahu/scope3-emission-factors-db) | Open emission factors database (EPA, DEFRA, ecoinvent, GLEC) |
+| [sustainability-report-generator](https://github.com/virbahu/sustainability-report-generator) | Automated CSRD/GRI report generation |
+
+#### 🔗 Supply Chain Intelligence
+
+| Repository | What It Does |
+|:--|:--|
+| [supply-chain-knowledge-graph](https://github.com/virbahu/supply-chain-knowledge-graph) | Knowledge graph construction for SC intelligence |
+| [multi-tier-supplier-mapper](https://github.com/virbahu/multi-tier-supplier-mapper) | Multi-tier supplier discovery from procurement data |
+| [supplier-risk-scorer](https://github.com/virbahu/supplier-risk-scorer) | ML-based supplier ESG & operational risk scoring |
+| [supply-chain-network-optimizer](https://github.com/virbahu/supply-chain-network-optimizer) | Multi-objective facility location optimization |
+| [r-value-optimizer](https://github.com/virbahu/r-value-optimizer) | Carbon reduction portfolio prioritization (Pareto + knapsack) |
+
+#### 📊 Data Pipelines & APIs
+
+| Repository | What It Does |
+|:--|:--|
+| [carbon-data-pipeline](https://github.com/virbahu/carbon-data-pipeline) | IoT sensor to emission record processing pipeline |
+| [carbon-footprint-api](https://github.com/virbahu/carbon-footprint-api) | REST API for product-level carbon footprint |
+| [logistics-emissions-tracker](https://github.com/virbahu/logistics-emissions-tracker) | GLEC Framework transport mode emissions calculator |
+| [esg-reporting-dashboard](https://github.com/virbahu/esg-reporting-dashboard) | Interactive Scope 1/2/3 ESG metrics dashboard (React) |
+
+#### ☁️ Oracle Cloud & Infrastructure
+
+| Repository | What It Does |
+|:--|:--|
+| [oracle-cloud-toolkit](https://github.com/virbahu/oracle-cloud-toolkit) | OCI migration scripts, EBS utilities, OAC templates |
+| [oci-terraform-modules](https://github.com/virbahu/oci-terraform-modules) | Production Terraform modules for OCI (VCN, Compute, ADB) |
+
+#### 📚 Research & Community
+
+| Repository | What It Does |
+|:--|:--|
+| [ai-supply-chain-research](https://github.com/virbahu/ai-supply-chain-research) | Research notebooks + automated arxiv paper scanning |
+| [awesome-climate-tech-ai](https://github.com/virbahu/awesome-climate-tech-ai) | Curated list: AI x Climate Tech resources |
+
+---
+
+### Tech
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=virbahu&label=Profile%20Views&color=A100FF&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 </p>
 
 ---
 
-## 🏢 About Quantisage
+### Publications & Patents
 
-> **"Where Growth Meets Compliance"**
-
-**Quantisage** is building an AI-powered platform to provide customers with the world's leading technology and sustainable compliance Supply Chain solutions — while promoting the well-being and development of our associates and partners.
-
-Quantisage is focused on delivering **enterprise-grade technology and compliance solutions** to regulated and performance-driven Sustainable Supply Chain industries who care about **ESG and Clean Tech**.
-
-### Why Choose Quantisage?
-
-Quantisage is built on experience — our consultants average over **20 years of hands-on expertise** across mission-critical functions. We act as a true extension of your team, committed to helping you extract the maximum value from your software investments.
-
-With deep-domain knowledge in **Healthcare, Life Sciences, Financial Services, Manufacturing, Energy, Private Equity, Robotics, Semiconductor, Chemicals, Food & Beverages, and the Public Sector**, we bring insight, agility, and execution discipline to every engagement.
-
-- ✅ AI-powered Supply Chain Solutions — guaranteed **15–30% operational efficiency gains** in 12–16 weeks
-- ✅ AI-powered Compliance Solutions for Manufacturing & Supply Chain industries
-- ✅ **Award-winning** consulting company — even competitors and Big 4's use our expertise
-- ✅ Serving commercial, schools, and government markets throughout the United States
-
-**Empower your teams. Maximize ROI.**
-
-📧 Reach out: [info@quantisage.com](mailto:info@quantisage.com)
-
----
-
-### 🧑‍💼 About Me
-
-> *Virbahu Jain also goes by Vir (V-e-e-r)*
-
-I'm **Vir, Founder & CEO of Quantisage** — a dynamic Business Transformation Leader with over **20 years of global experience** in Supply Chain Management, Growth, and Technology Strategy.
-
-With 20+ years at the forefront of digital innovation, I architect supply chain revolutions, compliance breakthroughs, and ERP evolutions for global titans ($300M–$100B+). At Quantisage, I pioneer AI solutions that turn operational chaos into competitive advantage — delivering **40–60% efficiency gains** and **85%+ decision accuracy** for clients worldwide.
-
-I have led large-scale digital transformations and automation initiatives for organizations with revenues ranging from **$300 million to over $100 billion** across the U.S. and international markets.
-
-**Industries Served** *(not limited to)*: Manufacturing, Logistics, Private Equity, Financial Services, Media, Telecom, Healthcare, Life Sciences, and Public Sector.
-
-Led impactful, revenue-generating leadership roles at global organizations: **Accenture, GE, IBM, and Hitachi**. I excel in building strategic roadmaps, scaling operations, and driving results in complex, fast-paced environments. My expertise spans **AI-powered applications, IoT, blockchain, and Cloud platforms**, making me a trusted advisor in technology-led innovation.
-
-As an entrepreneur and investor, I am passionate about pioneering disruptive solutions. I blend strong analytical thinking with hands-on leadership to align diverse teams and deliver measurable outcomes. Whether driving supply chain optimization or leading AI infrastructure development, I thrive at the intersection of business, data, and technology.
-
-I have shaped multiple innovative ideas into commercial digital products and launched/scaled multiple customer-centric businesses. Passionate about leveraging a **digital-first mindset** to transform business models and deliver exceptional value to end customers.
-
-📧 Connect with me: [vir@quantisage.com](mailto:vir@quantisage.com)
-
----
-
-### 🏭 Experience & Background
-
-| | |
-|---|---|
-| 🎓 **Education** | MBA, Kellogg School of Management, Northwestern University |
-| 🏢 **Previous Roles** | ex-Accenture, GE, IBM, Oracle, Hitachi Consulting |
-| 🏭 **Experience** | 25+ years IT experience in key management, technology and consulting positions |
-| 🌍 **Scope** | Supply chain operations across U.S. and international markets |
-| 🔬 **Focus** | SaaS, IT Strategy, Compliance, and Digital Transformation projects |
-| 🤝 **Role** | Strategic advisor — technology assessments, digital roadmaps, software selection, business process & system design |
-
----
-
-### 🚀 What I'm Building
-
-```
-Quantisage SAGE Platform
-├── 🌐 Graph Neural Networks for multi-tier supply chain mapping
-├── 🤖 LLM-powered emissions factor matching & classification
-├── 📡 Real-time IoT data ingestion (replacing 12-month survey lags)
-├── 📊 R-Value optimization for carbon reduction prioritization
-└── 🔗 Enterprise integration (ERP, SCM, procurement systems)
-```
-
----
-
-### 🛠️ Tech Stack & Expertise
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-red?style=flat&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-00B4D8?style=flat&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat&logo=ethereum&logoColor=white)
+- **"The Invisible Ninety Percent: How AI Is Rewriting the Carbon Ledger of Global Supply Chains"** — Book chapter
+- **Peer-reviewed research** — Machine learning applications in sustainable supply chain management
+- **Patents** — IoT solutions for supply chain visibility · AI systems for manufacturing optimization
 
 ---
 
 <p align="center">
-  <a href="https://quantisage.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Quantisage-Open%20Source%20Initiative-00C853?style=for-the-badge" /></a>
-  <a href="https://github.com/virbahu" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/AI-Supply%20Chain-blue?style=for-the-badge" /></a>
-  <a href="https://quantisage.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Climate-Tech-green?style=for-the-badge" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=virbahu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A100FF&icon_color=A100FF&text_color=FFFFFF" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=virbahu&theme=tokyonight&hide_border=true&background=0D1117&ring=A100FF&fire=A100FF&currStreakLabel=A100FF" height="160"/>
 </p>
+
+<p align="center"><sub>
+  <em>"You can't decarbonize what you can't see. AI makes the invisible supply chain visible."</em>
+</sub></p>
